@@ -1,0 +1,24 @@
+body {
+    background-color:rgb(255, 223, 230)  ;
+    text-align: center;
+}
+h1 {
+    background-color: rgb(168, 40, 115);
+    color: rgb(255, 223, 230) ;
+    font-family:Georgia;
+}
+.citation {
+    color: rgba(48, 48, 48, 0.795);
+}
+#home-image{
+border-style: solid;
+height: 700px;
+}
+#about-image {
+    border-style: solid;
+    height: 600px;
+}
+a {
+    font-size: 25px;
+    color:rgb(168, 40, 115);
+}
