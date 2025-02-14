@@ -16,9 +16,13 @@ height: 700px;
 }
 #about-image {
     border-style: solid;
-    height: 600px;
+    height: 650px;
 }
 a {
     font-size: 25px;
     color:rgb(168, 40, 115);
+}
+#habitat-image {
+    border-style: solid;
+    height: 650px;
 }
